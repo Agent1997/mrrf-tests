@@ -1,0 +1,15 @@
+.idea
+.venv
+.vscode
+log
+__pycache__/
+*.py[cod]
+report
+outputs
+.pabotsuitenames
+properties.py
+pabot_results
+output.xml
+log.html
+report.html
+interactive_console_output.xml
